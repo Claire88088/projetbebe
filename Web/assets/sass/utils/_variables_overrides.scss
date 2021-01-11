@@ -1,0 +1,52 @@
+// Variables
+
+// Color system
+$spectra:  #2D555D !default;
+$fountain-blue: #63C3AB !default;
+$aqua-island: #AAE1D4 !default;
+$swans-down: #D9F0EB !default;
+$swans-lighter: #b6e2d8 !default;
+
+$primary:       $spectra !default;
+$secondary:     $fountain-blue !default;
+
+
+// Body
+$body-bg:                   $swans-down !default;
+
+
+// Components
+
+
+// Typography
+$font-size-base:              1.5rem !default; 
+
+$h1-font-size:                $font-size-base * 2.5 !default;
+$h2-font-size:                $font-size-base * 1.5 !default;
+$h3-font-size:                $font-size-base * 1.25 !default;
+
+
+// Tables
+$table-color:                 $primary !default;
+$table-bg:                    $aqua-island !default;
+
+
+// Jumbotron
+$jumbotron-color:                   $swans-down !default;
+$jumbotron-bg:                      $primary !default;
+
+// Cards
+$card-bg:                           $aqua-island !default;
+
+
+
+
+
+
+
+
+
+
+
+
+

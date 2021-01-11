@@ -1,0 +1,15 @@
+@import "utils/variables_overrides";
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+h1 a {
+    color: $swans-lighter;
+}
+
+.jumbotron {
+    border-radius: 0;
+}
+
+.table thead tr th {
+    width: 50%;
+}

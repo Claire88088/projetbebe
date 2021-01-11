@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<definitions>
+  <define var="weather_token" value="ff7317b00bd2caf753a6253a7581626e22ddce9b6d531c4deb4bff05f6f452fe" ></define>
+</definitions>

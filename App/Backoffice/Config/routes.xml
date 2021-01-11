@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<routes>
+  <route url="/admin/" module="Baby" action="index"></route>  
+  <route url="/admin/feeding-insert\.html" module="Baby" action="insertFeeding"></route>
+  <route url="/admin/babychange-insert\.html" module="Baby" action="insertBabyChange"></route>
+  <route url="/admin/sleep-insert\.html" module="Baby" action="insertSleep"></route>
+  <route url="/admin/day-recap\.html" module="Baby" action="recapDay"></route>
+  <route url="/admin/weather-index.html" module="Weather" action="weatherIndex"></route>
+  <route url="/admin/forecasts.html" module="Weather" action="forecasts"></route>
+</routes>
